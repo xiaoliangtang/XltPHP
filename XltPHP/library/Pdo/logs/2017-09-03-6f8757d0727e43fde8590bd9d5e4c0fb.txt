@@ -1,0 +1,35 @@
+Time : 09:54:49
+SQLSTATE[HY000] [1049] Unknown database 'xltphp'
+
+Time : 09:54:49
+SQLSTATE[HY000] [1049] Unknown database 'xltphp'
+
+Time : 09:54:48
+SQLSTATE[HY000] [1049] Unknown database 'xltphp'
+
+Time : 09:54:48
+SQLSTATE[HY000] [1049] Unknown database 'xltphp'
+
+Time : 09:54:48
+SQLSTATE[HY000] [1049] Unknown database 'xltphp'
+
+Time : 09:54:48
+SQLSTATE[HY000] [1049] Unknown database 'xltphp'
+
+Time : 09:54:48
+SQLSTATE[HY000] [1049] Unknown database 'xltphp'
+
+Time : 09:54:47
+SQLSTATE[HY000] [1049] Unknown database 'xltphp'
+
+Time : 09:54:46
+SQLSTATE[HY000] [1049] Unknown database 'xltphp'
+
+Time : 09:54:46
+SQLSTATE[HY000] [1049] Unknown database 'xltphp'
+
+Time : 09:53:03
+SQLSTATE[HY000] [1049] Unknown database 'xltphp'
+
+Time : 09:53:03
+SQLSTATE[HY000] [1049] Unknown database 'xltphp'

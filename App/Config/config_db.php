@@ -1,0 +1,1 @@
+<?php return array('DB_OPEN'=>false,'DB_TYPE'=>'mysql','DB_HOST'=>'127.0.0.1','DB_NAME'=>'','DB_USER'=>'root','DB_PWD'=>'','DB_PORT'=>'3306','DB_PREFIX'=>'xltphp_','DB_FIELDTYPE_CHECK'=>'','DB_FIELDS_CACHE'=>'1','DB_CHARSET'=>'utf8',);?>
